@@ -1,0 +1,20 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.alexander.applicationtask1.Home"
+    android:background="#ffff">
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="442dp"
+        android:id="@+id/home"
+        android:text="HELLO"
+        android:layout_marginTop="220dp"
+        android:textSize="50dp"
+        android:layout_gravity="left|top"
+        android:layout_marginLeft="110dp"
+        />
+
+</FrameLayout>
